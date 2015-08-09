@@ -50,5 +50,4 @@ In recent version, the pipe:// source (in IPTV network) might be used to obtain 
   <Banner></Banner>
   <Icon>http://i.imgur.com/BOM9PHj.png</Icon>
   <Beta>False</Beta>
-  <Category>MediaServer:Video</Category>
 </Container>
